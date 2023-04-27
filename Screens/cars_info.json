@@ -1,0 +1,14 @@
+[
+    {
+        "id" :"1",
+        "car_name" : "Maruti suzuki"
+    },
+    {
+        "id" :"2",
+        "car_name" : "Tata nano"
+    },
+    {
+        "id" :"3",
+        "car_name" : "Mahindra thar"
+    }
+]
